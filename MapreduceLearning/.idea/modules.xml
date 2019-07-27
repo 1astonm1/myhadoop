@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MapreduceLearning.iml" filepath="$PROJECT_DIR$/MapreduceLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxTemp/MaxTemp.iml" filepath="$PROJECT_DIR$/MaxTemp/MaxTemp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SetNumber/SetNumber.iml" filepath="$PROJECT_DIR$/SetNumber/SetNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WCcommbiner/WCcommbiner.iml" filepath="$PROJECT_DIR$/WCcommbiner/WCcommbiner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordCount/WordCount.iml" filepath="$PROJECT_DIR$/WordCount/WordCount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordCounttoken/WordCounttoken.iml" filepath="$PROJECT_DIR$/WordCounttoken/WordCounttoken.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logsprocess/logsprocess.iml" filepath="$PROJECT_DIR$/logsprocess/logsprocess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user_pay/user_pay.iml" filepath="$PROJECT_DIR$/user_pay/user_pay.iml" />
+    </modules>
+  </component>
+</project>

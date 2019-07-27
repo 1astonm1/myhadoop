@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="WordCounttoken" />
+        <module name="logsprocess" />
+        <module name="SetNumber" />
+        <module name="user_pay" />
+        <module name="WordCount" />
+        <module name="WCcommbiner" />
+        <module name="MaxTemp" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="logsprocess" target="1.5" />
+      <module name="MaxTemp" target="1.5" />
+      <module name="SetNumber" target="1.5" />
+      <module name="user_pay" target="1.5" />
+      <module name="WCcommbiner" target="1.5" />
+      <module name="WordCount" target="1.5" />
+      <module name="WordCounttoken" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
