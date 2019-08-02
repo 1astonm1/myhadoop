@@ -6,7 +6,38 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96dcf9ba-e6f1-4693-9970-042b14cdd453" name="Default Changelist" comment="" />
+    <list default="true" id="96dcf9ba-e6f1-4693-9970-042b14cdd453" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MaxTempTest/MaxTempTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaxTempTest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaxTempTest/src/main/java/MTapp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaxTempTest/src/main/java/MTmapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaxTempTest/src/main/java/MTreducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaxTempTest/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WCcommbiner/src/main/java/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WCcommbiner/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_pay/src/main/java/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_pay/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HDFS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HDFS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WCcommbiner/src/main/java/WCcapp.java" beforeDir="false" afterPath="$PROJECT_DIR$/WCcommbiner/src/main/java/WCcapp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WCcommbiner/src/main/java/WCcmapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/WCcommbiner/src/main/java/WCcmapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WCcommbiner/src/main/java/WCcreducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/WCcommbiner/src/main/java/WCcreducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WCcommbiner/target/classes/WCcapp.class" beforeDir="false" afterPath="$PROJECT_DIR$/WCcommbiner/target/classes/WCcapp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WCcommbiner/target/classes/WCcmapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/WCcommbiner/target/classes/WCcmapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WCcommbiner/target/classes/WCcreducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/WCcommbiner/target/classes/WCcreducer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MapreduceLearning_jar/MapreduceLearning.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/MapreduceLearning_jar/MapreduceLearning.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SetNumber_jar/SetNumber.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SetNumber_jar/SetNumber.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/WCcommbiner_jar/WCcommbiner.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/WCcommbiner_jar/WCcommbiner.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/logsprocess_jar/logsprocess.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/logsprocess_jar/logsprocess.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/user_pay_jar/user_pay.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/user_pay_jar/user_pay.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_pay/src/main/java/User_paymapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/user_pay/src/main/java/User_paymapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_pay/src/main/java/User_payreducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/user_pay/src/main/java/User_payreducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_pay/target/classes/User_paymapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/user_pay/target/classes/User_paymapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_pay/target/classes/User_payreducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/user_pay/target/classes/User_payreducer.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/SetNumber/target/" />
     <ignored path="$PROJECT_DIR$/MaxTemp/target/" />
@@ -15,6 +46,7 @@
     <ignored path="$PROJECT_DIR$/logsprocess/target/" />
     <ignored path="$PROJECT_DIR$/user_pay/target/" />
     <ignored path="$PROJECT_DIR$/WCcommbiner/target/" />
+    <ignored path="$PROJECT_DIR$/MaxTempTest/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,19 +59,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WCcommbiner/pom.xml">
+        <entry file="file://$PROJECT_DIR$/MaxTempTest/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="29" selection-end-column="10" />
+            <state relative-caret-position="576">
+              <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WCcommbiner/src/main/java/WCcmapper.java">
+        <entry file="file://$PROJECT_DIR$/MaxTempTest/src/main/java/MTmapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+            <state relative-caret-position="336">
+              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MaxTempTest/src/main/java/MTreducer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -48,10 +92,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/WCcommbiner/src/main/java/WCcreducer.java">
+        <entry file="file://$PROJECT_DIR$/MaxTempTest/src/main/java/MTapp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+            <state relative-caret-position="560">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -60,22 +104,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WCcommbiner/src/main/java/WCcapp.java">
+        <entry file="file://$PROJECT_DIR$/SetNumber/src/main/java/WCApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WCcommbiner/src/main/java/MyPartitioner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <state relative-caret-position="96">
+              <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -102,7 +134,6 @@
         <option value="$PROJECT_DIR$/SetNumber/src/main/java/WCReduce.java" />
         <option value="$PROJECT_DIR$/SetNumber/src/main/java/WCMapper.java" />
         <option value="$PROJECT_DIR$/MaxTemp/pom.xml" />
-        <option value="$PROJECT_DIR$/MaxTemp/src/main/java/MaxTempMapper.java" />
         <option value="$PROJECT_DIR$/SetNumber/src/main/java/WCApp.java" />
         <option value="$PROJECT_DIR$/WordCounttoken/src/main/java/wcMapper.java" />
         <option value="$PROJECT_DIR$/WordCounttoken/src/main/java/wcReducer.java" />
@@ -114,19 +145,26 @@
         <option value="$PROJECT_DIR$/WordCount/src/main/java/WordCountmap.java" />
         <option value="$PROJECT_DIR$/user_pay/pom.xml" />
         <option value="$PROJECT_DIR$/test/src/Test.java" />
-        <option value="$PROJECT_DIR$/user_pay/src/main/java/User_payreducer.java" />
         <option value="$PROJECT_DIR$/logsprocess/src/main/java/logProcessAPP.java" />
         <option value="$PROJECT_DIR$/logsprocess/src/main/java/logProcessMapper.java" />
         <option value="$PROJECT_DIR$/logsprocess/src/main/java/logProcessReducer.java" />
         <option value="$PROJECT_DIR$/WCcommbiner/pom.xml" />
-        <option value="$PROJECT_DIR$/user_pay/src/main/java/User_paymapper.java" />
         <option value="$PROJECT_DIR$/WordCount/src/main/java/MyPartitioner.java" />
         <option value="$PROJECT_DIR$/WordCounttoken/src/main/java/wcApp.java" />
-        <option value="$PROJECT_DIR$/WCcommbiner/src/main/java/WCcmapper.java" />
-        <option value="$PROJECT_DIR$/WCcommbiner/src/main/java/WCcreducer.java" />
         <option value="$PROJECT_DIR$/WCcommbiner/src/main/java/MyPartitioner.java" />
         <option value="$PROJECT_DIR$/user_pay/src/main/java/User_payapp.java" />
+        <option value="$PROJECT_DIR$/WCcommbiner/src/main/java/Util.java" />
         <option value="$PROJECT_DIR$/WCcommbiner/src/main/java/WCcapp.java" />
+        <option value="$PROJECT_DIR$/WCcommbiner/src/main/java/WCcmapper.java" />
+        <option value="$PROJECT_DIR$/WCcommbiner/src/main/java/WCcreducer.java" />
+        <option value="$PROJECT_DIR$/user_pay/src/main/java/Util.java" />
+        <option value="$PROJECT_DIR$/user_pay/src/main/java/User_paymapper.java" />
+        <option value="$PROJECT_DIR$/user_pay/src/main/java/User_payreducer.java" />
+        <option value="$PROJECT_DIR$/MaxTemp/src/main/java/MaxTempMapper.java" />
+        <option value="$PROJECT_DIR$/MaxTempTest/pom.xml" />
+        <option value="$PROJECT_DIR$/MaxTempTest/src/main/java/MTapp.java" />
+        <option value="$PROJECT_DIR$/MaxTempTest/src/main/java/MTreducer.java" />
+        <option value="$PROJECT_DIR$/MaxTempTest/src/main/java/MTmapper.java" />
       </list>
     </option>
   </component>
@@ -149,10 +187,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-190" />
-    <option name="y" value="65" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -162,6 +199,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,51 +211,25 @@
             <path>
               <item name="MapreduceLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="MapreduceLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="WCcommbiner" type="462c0819:PsiDirectoryNode" />
+              <item name="MaxTempTest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MapreduceLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="MapreduceLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="WCcommbiner" type="462c0819:PsiDirectoryNode" />
+              <item name="MaxTempTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MapreduceLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="MapreduceLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="WCcommbiner" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MapreduceLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MapreduceLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="WCcommbiner" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MapreduceLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MapreduceLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="WordCount" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MapreduceLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MapreduceLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="WordCount" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MapreduceLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MapreduceLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="WordCount" type="462c0819:PsiDirectoryNode" />
+              <item name="MaxTempTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MapreduceLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="MapreduceLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="WordCount" type="462c0819:PsiDirectoryNode" />
+              <item name="MaxTempTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -224,25 +237,25 @@
             <path>
               <item name="MapreduceLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="MapreduceLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="WordCounttoken" type="462c0819:PsiDirectoryNode" />
+              <item name="SetNumber" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MapreduceLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="MapreduceLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="WordCounttoken" type="462c0819:PsiDirectoryNode" />
+              <item name="SetNumber" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MapreduceLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="MapreduceLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="WordCounttoken" type="462c0819:PsiDirectoryNode" />
+              <item name="SetNumber" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MapreduceLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="MapreduceLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="WordCounttoken" type="462c0819:PsiDirectoryNode" />
+              <item name="SetNumber" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -251,8 +264,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,13 +271,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/WCcommbiner" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/user_pay/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -274,6 +285,18 @@
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Project\git\Hadoop\myhadoop\MapreduceLearning\user_pay\src\main\resources" />
+      <recent name="F:\Project\git\Hadoop\myhadoop\MapreduceLearning\WCcommbiner\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Project\git\Hadoop\myhadoop\MapreduceLearning\MaxTempTest\src\main\resources" />
+      <recent name="F:\Project\git\Hadoop\myhadoop\MapreduceLearning\user_pay\src\main\resources" />
+      <recent name="F:\Project\git\Hadoop\myhadoop\MapreduceLearning\user_pay\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -288,7 +311,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WCcapp">
+  <component name="RunManager" selected="Application.MTapp">
+    <configuration name="MTapp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MTapp" />
+      <module name="MaxTempTest" />
+      <option name="PROGRAM_PARAMETERS" value="file:///F:\Download\dataset\hadoop\1901 file:///F:\Download\dataset\hadoop\1901\output" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="User_payapp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="User_payapp" />
       <module name="user_pay" />
@@ -306,6 +337,7 @@
     <configuration name="WCcapp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="WCcapp" />
       <module name="WCcommbiner" />
+      <option name="PROGRAM_PARAMETERS" value="file:///D://DataSet//WordCountCombiner file:///D://DataSet//WordCountCombiner//output" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -326,14 +358,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="wcApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wcApp" />
-      <module name="WordCounttoken" />
-      <option name="PROGRAM_PARAMETERS" value="///d:/rm ///d:/rm/output" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="wcapp" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="WCApp" />
       <module name="SetNumber" />
@@ -346,19 +370,19 @@
     <list>
       <item itemvalue="Application.wcapp" />
       <item itemvalue="Application.WCApp" />
-      <item itemvalue="Application.wcApp" />
       <item itemvalue="Application.WordCountapp" />
       <item itemvalue="Application.logProcessAPP" />
       <item itemvalue="Application.User_payapp" />
       <item itemvalue="Application.WCcapp" />
+      <item itemvalue="Application.MTapp" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WCcapp" />
+        <item itemvalue="Application.MTapp" />
         <item itemvalue="Application.User_payapp" />
+        <item itemvalue="Application.WCcapp" />
         <item itemvalue="Application.logProcessAPP" />
         <item itemvalue="Application.WordCountapp" />
-        <item itemvalue="Application.wcApp" />
       </list>
     </recent_temporary>
   </component>
@@ -396,11 +420,18 @@
       <workItem from="1563799931289" duration="599000" />
       <workItem from="1563966775750" duration="9305000" />
       <workItem from="1564228607673" duration="1416000" />
+      <workItem from="1564230276904" duration="5224000" />
+      <workItem from="1564282578336" duration="3344000" />
+      <workItem from="1564409537579" duration="2967000" />
+      <workItem from="1564495757304" duration="497000" />
+      <workItem from="1564496295624" duration="713000" />
+      <workItem from="1564498659844" duration="1652000" />
+      <workItem from="1564576084829" duration="599000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82686000" />
+    <option name="totallyTimeSpent" value="97682000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -414,7 +445,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18364611" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20241287" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -423,7 +454,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.42776203" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.8286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -438,9 +469,9 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.18364611" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.18364611" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
@@ -482,16 +513,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MaxTemp/src/main/java/MaxTempMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MaxTemp/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
@@ -554,7 +575,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.7.2/hadoop-common-2.7.2.jar!/org/apache/hadoop/io/IntWritable.class" />
     <entry file="file://$PROJECT_DIR$/WordCount/src/main/java/WordCountreduce.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -658,16 +678,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SetNumber/src/main/java/WCApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WordCounttoken/src/main/java/wcApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -688,36 +698,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/user_pay/src/main/java/User_payapp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="22" column="52" lean-forward="true" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user_pay/src/main/java/User_paymapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user_pay/src/main/java/User_payreducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WCcommbiner/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -725,30 +705,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WCcommbiner/src/main/java/MyPartitioner.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.7.2/hadoop-common-2.7.2.jar!/org/apache/hadoop/io/IntWritable.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WCcommbiner/src/main/java/WCcapp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="216">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WCcommbiner/src/main/java/WCcmapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        <state relative-caret-position="72">
+          <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WCcommbiner/src/main/java/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WCcommbiner/src/main/java/MyPartitioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -757,8 +741,131 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WCcommbiner/src/main/java/WCcreducer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+        <state>
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WCcommbiner/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-720" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_pay/src/main/java/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_pay/src/main/java/User_payreducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WCcommbiner/src/main/java/WCcapp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MaxTemp/src/main/java/MaxTempMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MaxTempTest/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_pay/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_pay/src/main/java/User_payapp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_pay/src/main/java/User_paymapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MaxTempTest/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MaxTempTest/src/main/java/MTmapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MaxTempTest/src/main/java/MTreducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SetNumber/src/main/java/WCApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MaxTempTest/src/main/java/MTapp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -776,7 +883,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -818,7 +924,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>WCcommbiner</last-edited>
+          <last-edited>MaxTempTest</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -843,6 +949,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

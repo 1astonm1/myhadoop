@@ -17,6 +17,9 @@ public class WCcmapper extends Mapper<LongWritable, Text, Text, IntWritable> {
             keyout.set(arr[i]);
             valueout.set(1);
             context.write(keyout, valueout);
+//            context.getCounter("map", "mapcount").increment(1);
+            context.getCounter("map", Util.getInfo(this, "map")).increment(1);
         }
+
     }
 }

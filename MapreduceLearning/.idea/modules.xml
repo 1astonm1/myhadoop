@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MapreduceLearning.iml" filepath="$PROJECT_DIR$/MapreduceLearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/MaxTemp/MaxTemp.iml" filepath="$PROJECT_DIR$/MaxTemp/MaxTemp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxTempTest/MaxTempTest.iml" filepath="$PROJECT_DIR$/MaxTempTest/MaxTempTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/SetNumber/SetNumber.iml" filepath="$PROJECT_DIR$/SetNumber/SetNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/WCcommbiner/WCcommbiner.iml" filepath="$PROJECT_DIR$/WCcommbiner/WCcommbiner.iml" />
       <module fileurl="file://$PROJECT_DIR$/WordCount/WordCount.iml" filepath="$PROJECT_DIR$/WordCount/WordCount.iml" />

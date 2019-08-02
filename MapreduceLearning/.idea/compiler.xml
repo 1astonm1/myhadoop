@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="WordCounttoken" />
+        <module name="MaxTempTest" />
         <module name="logsprocess" />
         <module name="SetNumber" />
         <module name="user_pay" />
@@ -18,6 +19,7 @@
     <bytecodeTargetLevel>
       <module name="logsprocess" target="1.5" />
       <module name="MaxTemp" target="1.5" />
+      <module name="MaxTempTest" target="1.5" />
       <module name="SetNumber" target="1.5" />
       <module name="user_pay" target="1.5" />
       <module name="WCcommbiner" target="1.5" />

@@ -16,5 +16,6 @@ public class User_paymapper  extends Mapper <LongWritable, Text, Text, IntWritab
         valueout.set(1);
 //        System.out.println("key:" + keyout.toString());
         context.write(keyout, valueout);
+        context.getCounter("map", "mapper").increment(1);
     }
 }

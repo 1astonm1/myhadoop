@@ -11,7 +11,7 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 public class WCcapp{
     public static void main(String[] args) throws Exception{
         Configuration conf = new Configuration();
-        conf.set("fs.defaultFS", "file:///");
+//        conf.set("fs.defaultFS", "file:///");
         Job job = new Job(conf);
 
         job.setJarByClass(WCcapp.class);
@@ -21,10 +21,10 @@ public class WCcapp{
 
         job.setCombinerClass(WCcreducer.class);
 
-        FileInputFormat.addInputPath(job, new Path("file:///D://DataSet//WordCountCombiner"));
-        FileOutputFormat.setOutputPath(job, new Path("file:///D://DataSet//WordCountCombiner//output"));
-//        FileInputFormat.addInputPath(job, new Path(args[0]));
-//        FileOutputFormat.setOutputPath(job, new Path(args[1]));
+//        FileInputFormat.addInputPath(job, new Path("file:///D://DataSet//WordCountCombiner"));
+//        FileOutputFormat.setOutputPath(job, new Path("file:///D://DataSet//WordCountCombiner//output"));
+        FileInputFormat.addInputPath(job, new Path(args[0]));
+        FileOutputFormat.setOutputPath(job, new Path(args[1]));
 
         job.setMapperClass(WCcmapper.class);
         job.setMapOutputKeyClass(Text.class);

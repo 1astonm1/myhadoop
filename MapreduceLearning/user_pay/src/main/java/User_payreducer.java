@@ -12,5 +12,6 @@ public class User_payreducer extends Reducer <Text, IntWritable, Text, IntWritab
             count = count + iw.get();
         }
         context.write(key, new IntWritable(count));
+        context.getCounter("reducer", "reducer").increment(1);
     }
 }

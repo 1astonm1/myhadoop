@@ -11,9 +11,10 @@ public class WCcreducer extends Reducer<Text, IntWritable, Text, IntWritable>{
         for (IntWritable iw:values){
             count = count + iw.get();
         }
-        String tno = Thread.currentThread().getName();
+//        String tno = Thread.currentThread().getName();
 
-        System.out.println(tno + "      Key:" + key.toString() + "    value: " + count);
+//        System.out.println(tno + "      Key:" + key.toString() + "    value: " + count);
         context.write(key, new IntWritable(count));
+        context.getCounter("reducer", Util.getInfo(this, "reducer")).increment(1);
     }
 }
